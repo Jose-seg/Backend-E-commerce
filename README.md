@@ -13,6 +13,7 @@ This app is a backend E commerce application the purpose of this assignment is t
 - sequelize
 
 ## Video Walkthrough
+https://drive.google.com/file/d/1gWTSWyoHTnMRwRo5s0B1vlqZ3Z_pT3F7/view?usp=sharing
 
 ## Github Repo
 https://github.com/Jose-seg/Backend-E-commerce
